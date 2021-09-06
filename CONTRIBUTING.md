@@ -554,7 +554,7 @@ This project is an open source project, please act responsibly, be nice, polite 
   [INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.192 s - in io.quarkus.maven.it.GenerateConfigIT
   [INFO] Running io.quarkus.maven.it.DevMojoIT
   ```
-  DevMojoIT require a few minutes to run but anything more than that is not expected. Make sure that nothing is running on 8080.
+  DevMojoIT requires a few minutes to run but anything more than that is not expected. Make sure that nothing is running on 8080.
 
 * The native integration test for my extension didn't run in the CI
 
